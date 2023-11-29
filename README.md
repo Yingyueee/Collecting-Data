@@ -1,4 +1,4 @@
-# Collecting-Data
+# Collecting-Data A1
 1.This is a README file for this repository. The dataset of this repository is derived from Kaggle and can be found at "High School Student Performance and Demographics" (https://www.kaggle.com/dillonmyrick/high-school-student-performance-and-demographics)
 
 2.Specify a topic on which I would like to work in: "Predicting students' final grade". With this dataset, we can predict the association between students' final grades and different variables.
